@@ -11,4 +11,6 @@ In order to be able to run the code, it has to be located in the same folder as 
 Module is available at: https://github.com/jczic/MicroMLP
 For the UI code from here was used: https://realpython.com/python-rock-paper-scissors/
 
+The portable package already includes the necessary module
+
 Feel free to do anything with this code, it's just to have some fun.
