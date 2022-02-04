@@ -9,5 +9,6 @@ The testing was done runing the code on an Esp-32 development board using thonny
 
 In order to be able to run the code, it has to be located in the same folder as the MicroMLP module, or in case you wish to run it on an ESP-32 board using thonny you will need to save the module first to the board's internal memory.
 Module is available at: https://github.com/jczic/MicroMLP
+For the UI code from here was used: https://realpython.com/python-rock-paper-scissors/
 
 Feel free to do anything with this code, it's just to have some fun.
